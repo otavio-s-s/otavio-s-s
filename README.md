@@ -66,5 +66,3 @@ Web scraping projects:
 * [**LinkedIn profile**](https://www.linkedin.com/in/otavioss28/)
 ***
 
-Cover:
-<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by starline - www.freepik.com</a>
